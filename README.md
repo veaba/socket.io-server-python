@@ -8,6 +8,15 @@
 - 先看engine.io 源码和了解背后逻辑
 https://github.com/veaba/engine.io
 
+
+- socket.io 协议 https://github.com/socketio/engine.io-protocol
+
+- engine.io-pasrser https://github.com/learnboost/engine.io-parser
+
+- engine.io-client https://github.com/learnboost/engine.io-client
+
+- engine.io https://github.com/learnboost/engine.io
+
 - 再看socket.io 源码和了解背后设计逻辑
 
 - 再了解node 版本的socket.io 
