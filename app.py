@@ -1,4 +1,4 @@
-import socket
-
-for item in dir(socket):
-    print(item)
+import time
+while True:
+    time.sleep(1)
+    print(time.time(),111)
